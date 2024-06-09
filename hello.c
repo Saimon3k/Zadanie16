@@ -3,6 +3,6 @@
 int main() {
     printf("Hello, World!\n");
     printf("Jacek Diakun\n");
- printf("Szymon Kubiak\n");
+ printf("Konrad Swiatczak\n");
     return(0);
 }
